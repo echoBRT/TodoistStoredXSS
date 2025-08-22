@@ -69,8 +69,6 @@ CDN:
 
    https://d1ysz50cxb9zwl.cloudfront.net/.../file.png
 
-  https://d1ysz50cxb9zwl.cloudfront.net/Hqrm6dtqk-uJQqsDlBsHlaXJGVfNsdSWndNtYEhynhPp75G4kI4Gvo6ZyPeL6Zce/by/54863037/as/file.png?Expires=1753944966&Signature=SSZgohwHkdjD9vC7CHs03rYFR5OLwnBGgXk2ciwXdMVkeRH2BEspYiHSI1RgJIWc9amiPnbvIO2u7BFFBvnfDTuhTisfmOYAQRo8OsGFGDe0KSeOqCr8eH9H7JQtvxreko0ih4diqURD8WCt4man6Vka0AMGs59s-n68P~4x~TYIGfeuUPgQY-CX8tcRdSE0NrWLHL6Of7w02jWA2Nk1giZt~~CStwGdO3diFxS5lYorZ7lkvnCe~9VObDdASogr-2YKDamVvqtORqwAwpibyxoTKvw00lVLLJDqqT9yRC~jIkJksqWhkfbuqF3iYJh4g5BkHK1ML-EGlTCLqMk-9Q__&Key-Pair-Id=APKAJAERRT46LD6FN4NA
-
   
    <img width="952" height="428" alt="3" src="https://github.com/user-attachments/assets/e05452c5-1c8f-4a30-8be3-e8bb3a3e6fe2" />
 
